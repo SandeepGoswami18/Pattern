@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "STARCOLUMN.C": "cpp",
+        "stdio.h": "c"
+    },
+    "docwriter.style": "Google"
+}
